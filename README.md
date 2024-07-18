@@ -2,7 +2,7 @@
 [![pub package](https://img.shields.io/pub/v/facebook_tapbar_view_lego.svg)](https://pub.dartlang.org/packages/facebook_tapbar_view_lego)
 
 # facebook_tapbar_view_lego
-description here
+Facebook tapbar view lego for lego project.
 
 ##  Installation
 1. open terminal in the lego project root directory, enter the following command for install cli.
@@ -15,6 +15,3 @@ lego create
 ```bash
 lego add facebook_tapbar_view_lego
 ```
-
-## Usage
-Usage here
